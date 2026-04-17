@@ -1,0 +1,9 @@
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/domain/model/PostType.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/infrastructure/adapter/output/mongodb/SpringDataMongoBookRepository.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/infrastructure/adapter/output/mongodb/MongoBookRepository.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/application/service/BookService.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/infrastructure/adapter/output/MockFileProcessingAdapter.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/domain/repository/BookRepository.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/infrastructure/adapter/input/rest/BookController.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/domain/model/Book.java
+/home/eddealmeida/dev/projects/hypatia/src/main/java/com/hypatia/domain/model/BookType.java
