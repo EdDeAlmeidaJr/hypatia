@@ -1,3 +1,3 @@
 # Hypatia
-## The social network for readers and academc researchers
+## The social network for readers and academic researchers
 
