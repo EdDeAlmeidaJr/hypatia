@@ -1,0 +1,44 @@
+# Compiled files
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application secrets
+application.properties
+**/application.properties
+
+# React build
+frontend/node_modules/
+frontend/dist/
+src/main/resources/static/
+
+# MongoDB local data
+/data/
+dump/
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.swp
+*~

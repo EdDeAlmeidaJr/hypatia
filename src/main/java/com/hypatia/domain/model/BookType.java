@@ -1,6 +1,6 @@
 package com.hypatia.domain.model;
 
-public enum BookCategory {
+public enum BookType {
     BOOK,
     THESIS
 }

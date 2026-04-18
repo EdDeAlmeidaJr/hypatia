@@ -3,3 +3,4 @@ package com.hypatia.application.port.output;
 public interface FileProcessingPort {
     String extractText(byte[] fileContent);
 }
+
