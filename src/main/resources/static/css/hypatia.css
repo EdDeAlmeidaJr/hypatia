@@ -1,0 +1,9 @@
+.hypatia-title {
+	font-family: "Italianno";
+	font-size: 5rem;
+	font-weight: bold;
+}
+
+.hero.is-dark.is-medium {
+	padding: 1rem 1.5rem;
+}
